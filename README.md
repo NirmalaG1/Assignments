@@ -21,3 +21,48 @@ created data set with given data
     sorted it in reversed order. after unpacked the sorted list as tuple, printed skill and its count 
    
    
+5) Basic Statistics & Insights
+    Total number of job postings is calculated based on the length
+   splitted the skills list .stored all the indivudual sets in another list.and passed this in to
+   set() to find unique skills.and  length(unique silks ) is printed
+   using list comprehension method found the company lists which need specfic skill
+
+   6) Skill Search Function (functions & conditional logic)
+
+      created a string function which accepts sring as arguments. the processed string.
+      based on for loop i extracted skill and processed. and compared input string with extracted.
+      if found similar, printed corressponding job details in the list
+   7)  Lambda Filtering & List Comprehension
+      used filter function. inside passed lamba fuction as argument and list as iterable
+
+ 8)Unique Skill Set
+ 
+after findling consolidated skills, passed this as a variable inside set() function
+and printed unique 
+
+9)  Save Cleaned Data to File (file handling & exceptions)
+   after processing all the above,  written the data in .csv and .txt file
+used try and except methods to handle error
+
+
+
+
+
+
+ 
+      
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
