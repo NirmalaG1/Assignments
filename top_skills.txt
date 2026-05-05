@@ -1,0 +1,9 @@
+excel: 2
+sql: 3
+python: 4
+ml: 2
+statistics: 1
+powerbi: 1
+spark: 1
+deeplearning: 1
+automation: 1
