@@ -27,12 +27,12 @@ created data set with given data
    set() to find unique skills.and  length(unique silks ) is printed
    using list comprehension method found the company lists which need specfic skill
 
-   6) Skill Search Function (functions & conditional logic)
+6) Skill Search Function (functions & conditional logic)
 
       created a string function which accepts sring as arguments. the processed string.
       based on for loop i extracted skill and processed. and compared input string with extracted.
       if found similar, printed corressponding job details in the list
-   7)  Lambda Filtering & List Comprehension
+7)  Lambda Filtering & List Comprehension
       used filter function. inside passed lamba fuction as argument and list as iterable
 
  8)Unique Skill Set
